@@ -6,7 +6,7 @@ int duration;
 // LED pins
 int ledPins[] = {8, 9, 10, 11, 12, 13}; 
 
-// This is for an Arduino with an active buzzer and 6 LEDs.
+// This is for the Arduino Uno with an active buzzer and 6 LEDs.
 
 int intro1[] = {NOTE_E3, 0, NOTE_D4, NOTE_CS4, NOTE_C4};
 int intro1NoteDurations[] = {4, 2, 4, 4, 1};
